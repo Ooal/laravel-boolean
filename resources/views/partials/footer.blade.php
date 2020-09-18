@@ -47,3 +47,6 @@
     <p>COMMERCIALE@LAMOLISANA.IT</p>
   </div>
 </footer>
+<div class="footer-back">
+  <img src="{{asset('images/footer.jpg')}}" alt="">
+</div>
